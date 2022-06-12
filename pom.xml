@@ -8,11 +8,11 @@
         <version>2.7.0</version>
         <relativePath/> <!-- lookup parent from repository -->
     </parent>
-    <groupId>io.tenants.saas</groupId>
-    <artifactId>schema-based-multi-tenants</artifactId>
+    <groupId>io.tenants</groupId>
+    <artifactId>schema-per-tenant</artifactId>
     <version>0.0.1-SNAPSHOT</version>
-    <name>schema-based-multi-tenants</name>
-    <description>schema-based-multi-tenants</description>
+    <name>schema-per-tenant</name>
+    <description>Schema Per Tenant Strategy</description>
     <properties>
         <java.version>17</java.version>
     </properties>
